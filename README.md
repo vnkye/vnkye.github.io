@@ -10,14 +10,10 @@
 
 ## Programming 编程相关
 
-|    [Python](https://www.python.org/downloads/)     | [Java](https://www.oracle.com/cn/java/technologies/downloads/) |             [Golang](https://go.dev/dl/)             |
-| :------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
-| [Django](https://www.djangoproject.com/download/)  |        [Maven](https://maven.apache.org/download.cgi)        |         [Gin](https://gin-gonic.com/zh-cn/)          |
-|           [Scrapy](https://scrapy.org/)            |              [Spring](https://start.spring.io/)              |    [Gorm](https://gorm.io/zh_CN/docs/index.html)     |
-|     [VS Code](https://code.visualstudio.com/)      |    [Notepad++](https://notepad-plus-plus.org/downloads/)     |    [Jetbrains](https://www.jetbrains.com/zh-cn/)     |
-|   [Eclipse](https://www.eclipse.org/downloads/)    |     [Fiddler](https://www.telerik.com/download/fiddler)      | [Wireshark](https://www.wireshark.org/download.html) |
-| [MariaDB](https://mariadb.org/download/?t=mariadb) |      [HeidiSQL](https://www.heidisql.com/download.php)       |       [DBeaver](https://dbeaver.io/download/)        |
-|     [MySQL](https://dev.mysql.com/downloads/)      |              [Docker](https://www.docker.com/)               |     [Latex](https://www.latex-project.org/get/)      |
-|        [Git](https://git-scm.com/downloads)        |        [Github Desktop](https://desktop.github.com/)         |   [PDManer](https://gitee.com/robergroup/pdmaner)    |
-|         [CS自学指南](https://csdiy.wiki/)          |         [Stackoverflow](https://stackoverflow.com/)          |          [Leetcode](https://leetcode.com/)           |
+|    [Python](https://www.python.org/downloads/)    | [Java](https://www.oracle.com/cn/java/technologies/downloads/) |          [Golang](https://go.dev/dl/)           | [CS自学指南](https://csdiy.wiki/)                  | [Stackoverflow](https://stackoverflow.com/)         | [Leetcode](https://leetcode.com/)                    |
+| :-----------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------: | -------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------- |
+| [Django](https://www.djangoproject.com/download/) |        [Maven](https://maven.apache.org/download.cgi)        |       [Gin](https://gin-gonic.com/zh-cn/)       | [Eclipse](https://www.eclipse.org/downloads/)      | [Fiddler](https://www.telerik.com/download/fiddler) | [Wireshark](https://www.wireshark.org/download.html) |
+|           [Scrapy](https://scrapy.org/)           |              [Spring](https://start.spring.io/)              |  [Gorm](https://gorm.io/zh_CN/docs/index.html)  | [MariaDB](https://mariadb.org/download/?t=mariadb) | [HeidiSQL](https://www.heidisql.com/download.php)   | [DBeaver](https://dbeaver.io/download/)              |
+|     [VS Code](https://code.visualstudio.com/)     |    [Notepad++](https://notepad-plus-plus.org/downloads/)     |  [Jetbrains](https://www.jetbrains.com/zh-cn/)  | [MySQL](https://dev.mysql.com/downloads/)          | [Docker](https://www.docker.com/)                   | [Latex](https://www.latex-project.org/get/)          |
+|       [Git](https://git-scm.com/downloads)        |        [Github Desktop](https://desktop.github.com/)         | [PDManer](https://gitee.com/robergroup/pdmaner) |                                                    |                                                     |                                                      |
 
