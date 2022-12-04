@@ -19,9 +19,9 @@
 
 ## Sites 一些网站
 
-| [PDF24 PDF处理](https://tools.pdf24.org/zh/) | [123apps 音视频处理](https://123apps.com/cn/) | [jsdelivr CDN](https://www.jsdelivr.com/) | [VVLoad 下载中转](https://vvload.com/) |
-| :------------------------------------------: | :-------------------------------------------: | :---------------------------------------: | :------------------------------------: |
-|                                              |                                               |                                           |                                        |
-|                                              |                                               |                                           |                                        |
-|                                              |                                               |                                           |                                        |
+| [PDF24 PDF处理](https://tools.pdf24.org/zh/) |     [123apps 音视频处理](https://123apps.com/cn/)     |        [jsdelivr CDN](https://www.jsdelivr.com/)        |           [VVLoad 下载中转](https://vvload.com/)           |
+| :------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------: |
+|   [iP138 综合查询](https://www.ip138.com/)   |      [Whois 域名查询](https://whois.chinaz.com/)      |       [MSDN 微软镜像](https://next.itellyou.cn/)        |    [Freemdict 词典库](https://downloads.freemdict.com/)    |
+|  [Openwrt 固件](https://openwrt.org/start)   | [GreasyFork 油猴脚本库](https://greasyfork.org/zh-CN) |         [Steam++ 工具箱](https://steampp.net/)          | [Hibit 卸载工具](http://www.hibitsoft.ir/Uninstaller.html) |
+|  [Snipaste 截图](https://www.snipaste.com/)  |    [Potplayer 播放器](https://potplayer.daum.net/)    | [Everything 搜索工具](https://www.voidtools.com/zh-cn/) |                                                            |
 
