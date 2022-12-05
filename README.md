@@ -10,12 +10,12 @@
 
 ## Programming 编程相关
 
-| [Python](https://www.python.org/downloads/)       | [Java](https://www.oracle.com/cn/java/technologies/downloads/) | [Golang](https://go.dev/dl/)                  |         [CS自学指南](https://csdiy.wiki/)          |     [Stackoverflow](https://stackoverflow.com/)     |          [Leetcode](https://leetcode.com/)           |
-| ------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | :------------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------------: |
-| [Django](https://www.djangoproject.com/download/) | [Maven](https://maven.apache.org/download.cgi)               | [Gin](https://gin-gonic.com/zh-cn/)           |   [Eclipse](https://www.eclipse.org/downloads/)    | [Fiddler](https://www.telerik.com/download/fiddler) | [Wireshark](https://www.wireshark.org/download.html) |
-| [Scrapy](https://scrapy.org/)                     | [Spring](https://start.spring.io/)                           | [Gorm](https://gorm.io/zh_CN/docs/index.html) | [MariaDB](https://mariadb.org/download/?t=mariadb) |  [HeidiSQL](https://www.heidisql.com/download.php)  |       [DBeaver](https://dbeaver.io/download/)        |
-| [VS Code](https://code.visualstudio.com/)         | [Notepad++](https://notepad-plus-plus.org/downloads/)        | [Jetbrains](https://www.jetbrains.com/zh-cn/) |     [MySQL](https://dev.mysql.com/downloads/)      |   [PDManer](https://gitee.com/robergroup/pdmaner)   |          [Docker](https://www.docker.com/)           |
-| [Git](https://git-scm.com/downloads)              | [Github Desktop](https://desktop.github.com/)                | [Latex](https://www.latex-project.org/get/)   |                                                    |                                                     |                                                      |
+|    [Python](https://www.python.org/downloads/)    | [Java](https://www.oracle.com/cn/java/technologies/downloads/) |         [Golang](https://go.dev/dl/)          |         [CS自学指南](https://csdiy.wiki/)          |     [Stackoverflow](https://stackoverflow.com/)     |          [Leetcode](https://leetcode.com/)           |
+| :-----------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------: | :------------------------------------------------: | :-------------------------------------------------: | :--------------------------------------------------: |
+| [Django](https://www.djangoproject.com/download/) |        [Maven](https://maven.apache.org/download.cgi)        |      [Gin](https://gin-gonic.com/zh-cn/)      |   [Eclipse](https://www.eclipse.org/downloads/)    | [Fiddler](https://www.telerik.com/download/fiddler) | [Wireshark](https://www.wireshark.org/download.html) |
+|           [Scrapy](https://scrapy.org/)           |              [Spring](https://start.spring.io/)              | [Gorm](https://gorm.io/zh_CN/docs/index.html) | [MariaDB](https://mariadb.org/download/?t=mariadb) |  [HeidiSQL](https://www.heidisql.com/download.php)  |       [DBeaver](https://dbeaver.io/download/)        |
+|     [VS Code](https://code.visualstudio.com/)     |    [Notepad++](https://notepad-plus-plus.org/downloads/)     | [Jetbrains](https://www.jetbrains.com/zh-cn/) |     [MySQL](https://dev.mysql.com/downloads/)      |   [PDManer](https://gitee.com/robergroup/pdmaner)   |          [Docker](https://www.docker.com/)           |
+|       [Git](https://git-scm.com/downloads)        |        [Github Desktop](https://desktop.github.com/)         |  [Latex](https://www.latex-project.org/get/)  |                                                    |                                                     |                                                      |
 
 ## Sites 一些网站
 
@@ -24,4 +24,11 @@
 |   [iP138 综合查询](https://www.ip138.com/)   |      [Whois 域名查询](https://whois.chinaz.com/)      |       [MSDN 微软镜像](https://next.itellyou.cn/)        |    [Freemdict 词典库](https://downloads.freemdict.com/)    |
 |  [Openwrt 固件](https://openwrt.org/start)   | [GreasyFork 油猴脚本库](https://greasyfork.org/zh-CN) |         [Steam++ 工具箱](https://steampp.net/)          | [Hibit 卸载工具](http://www.hibitsoft.ir/Uninstaller.html) |
 |  [Snipaste 截图](https://www.snipaste.com/)  |    [Potplayer 播放器](https://potplayer.daum.net/)    | [Everything 搜索工具](https://www.voidtools.com/zh-cn/) |                                                            |
+
+## Repo from github 
+
+|     [Ventoy USB启动器](https://github.com/ventoy/Ventoy)     | [MAS 激活工具](https://github.com/massgravel/Microsoft-Activation-Scripts) | [QuickLook Win预览工具](https://github.com/QL-Win/QuickLook) | [Sumatra PDF查看器](https://github.com/sumatrapdfreader/sumatrapdf) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  [OSB 视频流工具](https://github.com/obsproject/obs-studio)  |    [PicGO 图床工具](https://github.com/Molunerfinn/PicGo)    | [Simplewall 简易防火墙](https://github.com/henrypp/simplewall) | [Memreduct 内存释放工具](https://github.com/henrypp/memreduct) |
+| [Koodo epub阅读器](https://github.com/troyeguo/koodo-reader) | [QtScrcpy 安卓投Win工具](https://github.com/barry-ran/QtScrcpy) |                                                              |                                                              |
 
