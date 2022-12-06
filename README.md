@@ -25,7 +25,7 @@
 |  [Openwrt 固件](https://openwrt.org/start)   | [GreasyFork 油猴脚本库](https://greasyfork.org/zh-CN) |         [Steam++ 工具箱](https://steampp.net/)          | [Hibit 卸载工具](http://www.hibitsoft.ir/Uninstaller.html) |
 |  [Snipaste 截图](https://www.snipaste.com/)  |    [Potplayer 播放器](https://potplayer.daum.net/)    | [Everything 搜索工具](https://www.voidtools.com/zh-cn/) |                                                            |
 
-## Repo from github 
+## Repo from github algorithm
 
 |     [Ventoy USB启动器](https://github.com/ventoy/Ventoy)     | [MAS 激活工具](https://github.com/massgravel/Microsoft-Activation-Scripts) | [QuickLook Win预览工具](https://github.com/QL-Win/QuickLook) | [Sumatra PDF查看器](https://github.com/sumatrapdfreader/sumatrapdf) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
